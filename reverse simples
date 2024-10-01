@@ -1,0 +1,4 @@
+txt = "Este texto vai ser invertido"
+
+print(txt[::-1])
+
